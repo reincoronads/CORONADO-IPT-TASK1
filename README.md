@@ -8,7 +8,8 @@ Authentication
 
 ● Logout
 
-Manage Member Data
+
+Manage User Data
 
 ● View Member Data
 
@@ -18,15 +19,7 @@ Manage Member Data
 
 ● Delete Member Data
 
-Manage Trainer Data
 
-● View Trainer Data
-
-● Add New Trainer
-
-● Edit Trainer Data
-
-● Delete Trainer Data
 
 Manage Gym Programs
 
@@ -38,6 +31,7 @@ Manage Gym Programs
 
 ● Delete Program Data
 
+
 Manage Memberships
 
 ● View Membership Details of Members
@@ -46,15 +40,8 @@ Manage Memberships
 
 ● Update Member Profiles
 
-Manage Training Sessions
+● Delete Member Profiles
 
-● View Assigned Members to Trainers
-
-● Schedule Training Sessions
-
-● Update Training Session Details
-
-● Delete Training Sessions
 
 Roles Page
 
